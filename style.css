@@ -1,0 +1,29 @@
+h1 {
+color: rgb(3, 3, 3);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: italic;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    border-radius: 10%;
+    
+}
+
+a {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: italic;
+}
+
+body {
+    background-color: rgb(247, 238, 157);
+    text-align: center;
+    
+}
+
+div {
+    text-align: center;
+
+
+}
